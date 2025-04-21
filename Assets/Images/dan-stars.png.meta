@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: dbc1d4b73c30214409c572980779e295
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3040751019929750339
+    second: dan-stars_0
+  - first:
+      213: -5034759079622367185
+    second: dan-stars_1
+  - first:
+      213: -8099414712878516894
+    second: dan-stars_2
+  - first:
+      213: -6940387617410734400
+    second: dan-stars_3
+  - first:
+      213: 4924381037125832617
+    second: dan-stars_4
+  - first:
+      213: 1474233643752903561
+    second: dan-stars_5
+  - first:
+      213: -9207876493667465136
+    second: dan-stars_6
+  - first:
+      213: -3329476800709879592
+    second: dan-stars_7
+  - first:
+      213: 7264978695213531806
+    second: dan-stars_8
+  - first:
+      213: -4583282208558465870
+    second: dan-stars_9
+  - first:
+      213: -798648719491592651
+    second: dan-stars_10
+  - first:
+      213: -4633271456857510006
+    second: dan-stars_11
+  - first:
+      213: -1602334005933978541
+    second: dan-stars_12
+  - first:
+      213: -6951399314650689670
+    second: dan-stars_13
+  - first:
+      213: 9216788828956499343
+    second: dan-stars_14
+  - first:
+      213: 5855827019395004859
+    second: dan-stars_15
+  - first:
+      213: -3075061374045076634
+    second: dan-stars_16
+  - first:
+      213: -2000992002706811956
+    second: dan-stars_17
+  - first:
+      213: 3485524796887374036
+    second: dan-stars_18
+  - first:
+      213: 6897988627275400442
+    second: dan-stars_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dan-stars_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 359
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db43ea6de051dc5d0800000000000000
+      internalID: -3040751019929750339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28af69da41f02ab0800000000000000
+      internalID: -5034759079622367185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265bd4e2b39199f80800000000000000
+      internalID: -8099414712878516894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6a6b4db3aceaf90800000000000000
+      internalID: -6940387617410734400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 877
+        width: 142
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af0e88767ae65440800000000000000
+      internalID: 4924381037125832617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98352db20b7857410800000000000000
+      internalID: 1474233643752903561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 872
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058084b4d1d073080800000000000000
+      internalID: -9207876493667465136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d898c57d725bc1d0800000000000000
+      internalID: -3329476800709879592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92cbfcb1a362d460800000000000000
+      internalID: 7264978695213531806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 616
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc31855d19e460c0800000000000000
+      internalID: -4583282208558465870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_10
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e02669831aae4f0800000000000000
+      internalID: -798648719491592651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_11
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f2d0a782053bfb0800000000000000
+      internalID: -4633271456857510006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_12
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc6cc06bd53c9e0800000000000000
+      internalID: -1602334005933978541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_13
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 837
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f0a56472ba78f90800000000000000
+      internalID: -6951399314650689670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_14
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1
+        width: 676
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9db77b9c98ef70800000000000000
+      internalID: 9216788828956499343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_15
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97c2d06a3144150800000000000000
+      internalID: 5855827019395004859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_16
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 698
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663c48109ff2355d0800000000000000
+      internalID: -3075061374045076634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_17
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35340106c0b34e0800000000000000
+      internalID: -2000992002706811956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_18
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8994ee5521f5030800000000000000
+      internalID: 3485524796887374036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan-stars_19
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 504
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44f610c149abf50800000000000000
+      internalID: 6897988627275400442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dan-stars_0: -3040751019929750339
+      dan-stars_1: -5034759079622367185
+      dan-stars_10: -798648719491592651
+      dan-stars_11: -4633271456857510006
+      dan-stars_12: -1602334005933978541
+      dan-stars_13: -6951399314650689670
+      dan-stars_14: 9216788828956499343
+      dan-stars_15: 5855827019395004859
+      dan-stars_16: -3075061374045076634
+      dan-stars_17: -2000992002706811956
+      dan-stars_18: 3485524796887374036
+      dan-stars_19: 6897988627275400442
+      dan-stars_2: -8099414712878516894
+      dan-stars_3: -6940387617410734400
+      dan-stars_4: 4924381037125832617
+      dan-stars_5: 1474233643752903561
+      dan-stars_6: -9207876493667465136
+      dan-stars_7: -3329476800709879592
+      dan-stars_8: 7264978695213531806
+      dan-stars_9: -4583282208558465870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
