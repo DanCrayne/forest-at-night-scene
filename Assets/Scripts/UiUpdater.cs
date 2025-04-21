@@ -7,8 +7,7 @@ public class UiUpdater : MonoBehaviour
 
     void Update()
     {
-        //timeText.text = $"{GameManager.Instance.GetTimeOfDay24Hr()}";
-        timeText.text = $"{FormatTime24Hr(GameManager.Instance.timeOfDay)}";
+        timeText.text = $"{FormatTime24Hr(GameManager.Instance.GetTimeOfDay())}";
     }
     private string FormatTime24Hr(float timeOfDay)
     {

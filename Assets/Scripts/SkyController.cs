@@ -31,12 +31,12 @@ public class SkyController : MonoBehaviour
 
     Color CalculateSkyColor()
     {
-        var currentTime = GameManager.Instance.timeOfDay;
+        var currentTime = GameManager.Instance.GetTimeOfDay();
 
         // Midnight → Dawn
         if (currentTime >= DawnStartsFloat && currentTime <= DawnEndsFloat)
         {
-            Debug.Log("Dawn");
+            //Debug.Log("Dawn");
             return Color.Lerp(
                 DeepNight,
                 Dawn,
@@ -46,7 +46,7 @@ public class SkyController : MonoBehaviour
         // Dawn → Daylight
         else if (currentTime >= DawnEndsFloat && currentTime <= DayStartsFloat)
         {
-            Debug.Log("Dawn → Daylight");
+            //Debug.Log("Dawn → Daylight");
             return Color.Lerp(
                 Dawn,
                 Daylight,
@@ -56,13 +56,13 @@ public class SkyController : MonoBehaviour
         // Daylight
         else if (currentTime >= DayStartsFloat && currentTime <= DayEndsFloat)
         {
-            Debug.Log("Day");
+            //Debug.Log("Day");
             return Daylight;
         }
         // Daylight → Sunset 
         else if (currentTime >= DayEndsFloat && currentTime <= DuskStartsFloat)
         {
-            Debug.Log("Daylight → Sunset");
+            //Debug.Log("Daylight → Sunset");
             return Color.Lerp(
                 Daylight,
                 Sunset,
@@ -72,7 +72,7 @@ public class SkyController : MonoBehaviour
         // Sunet → Deep Night
         else if (currentTime >= DuskStartsFloat && currentTime <= DuskEndsFloat)
         {
-            Debug.Log("Dusk");
+            //Debug.Log("Dusk");
             return Color.Lerp(
                 Sunset,
                 DeepNight,
@@ -82,7 +82,7 @@ public class SkyController : MonoBehaviour
         // Deep Night
         else
         {
-            Debug.Log("Night");
+            //Debug.Log("Night");
             return DeepNight;
         }
     }

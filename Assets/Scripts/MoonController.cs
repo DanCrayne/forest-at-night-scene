@@ -2,12 +2,11 @@ using UnityEngine;
 
 public class MoonController : MonoBehaviour
 {
-    public float speed = 1.0f; // Speed of the moon's movement
+    public float speed = 2.0f; // Speed of the moon's movement
     public Transform startingPosition; // Starting position of the moon
     public Transform endingPosition;   // Ending position of the moon
     public float arcHeight = 2.5f;     // Height of the arc
 
-    private float time; // Tracks the progression of the moon's movement
     private SpriteRenderer spriteRenderer;
 
     private void Start()
@@ -23,12 +22,7 @@ public class MoonController : MonoBehaviour
 
     private void UpdatePosition()
     {
-        // Increment time based on speed
-        time += Time.deltaTime * speed;
-
-        // Loop time to keep the moon cycling
-        if (time > 1.0f)
-            time -= 1.0f;
+        var time = GameManager.Instance.GetTimeOfDay();
 
         // Calculate horizontal position using linear interpolation
         float x = Mathf.Lerp(startingPosition.position.x, endingPosition.position.x, time);

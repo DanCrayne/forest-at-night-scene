@@ -8,7 +8,7 @@ public class MountainsController : MonoBehaviour
     void Start()
     {
         mountainRenderer = GetComponent<SpriteRenderer>();
-        originalColor = mountainRenderer.color; // Store the original color of the mountains
+        originalColor = mountainRenderer.color;
     }
 
     void Update()
