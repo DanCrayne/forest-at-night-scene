@@ -27,8 +27,15 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
+        totalTimePassed += Time.deltaTime;
+
         timeOfDay += Time.deltaTime / 60f; // One minute = full day
         if (timeOfDay > 1f) timeOfDay -= 1f; // Loop back to 0 after a full day
+    }
+
+    public float GetTotalElapsedTime()
+    {
+        return totalTimePassed;
     }
 
     /// <summary>
